@@ -7,7 +7,7 @@ Paris boasts a long and storied history, evident in its stunning architecture, w
 
 ***
 ### Favourite Activities
-Shopping
-SightSeeing
-Museums
+Shopping <br>
+SightSeeing <br>
+Museums <br>
 
