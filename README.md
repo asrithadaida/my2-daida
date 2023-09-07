@@ -38,3 +38,24 @@ These are the sports I would suggest someone to try.
 
 > There is no law except the law that there is no law. - *John Archibald Wheeler*
 
+***
+### Code Fencing
+
+> How do you post to an iframe?
+
+Stack Overflow Link <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
+
+~~~
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+~~~
+
+CSS tricks Link <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
