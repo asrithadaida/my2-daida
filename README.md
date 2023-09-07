@@ -30,3 +30,11 @@ These are the sports I would suggest someone to try.
 | Table Tennis | It is a fun game | 15 |
 | Carroms | To improve concentration | 9 |
 | Chess | To improve analytical skills | 20 |
+
+***
+###  Pithy Quotes
+
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple. - *Georg C. Lichtenberg*
+
+> There is no law except the law that there is no law. - *John Archibald Wheeler*
+
