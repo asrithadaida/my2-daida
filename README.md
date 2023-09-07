@@ -17,3 +17,5 @@ Museums <br>
 * Pasta 
 * Pizza 
 * Lasagna 
+
+[My Details](MyStats.md)
