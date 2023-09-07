@@ -19,3 +19,14 @@ Museums <br>
 * Lasagna 
 
 [My Details](MyStats.md)
+
+***
+### Sports to try
+
+These are the sports I would suggest someone to try.
+| Name | Reason | Hours |
+| --- | --- | --- |    
+| Badminton | It helps activate all body parts | 10 |
+| Table Tennis | It is a fun game | 15 |
+| Carroms | To improve concentration | 9 |
+| Chess | To improve analytical skills | 20 |
